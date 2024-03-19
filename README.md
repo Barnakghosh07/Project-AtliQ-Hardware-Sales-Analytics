@@ -1,6 +1,6 @@
 ## AtliQ Hardware Sales & Finance Analytics
 
-Welcome to the AtliQ Hardware Sales & Finance Analytics repository! This project focuses on analyzing sales data and Finance for AtliQ Hardware Company using Excel. We delve into Customer Net Sales, Finance Performance and Market Performance vs Target for the years 2019, 2020, and 2021. Additionally, we provide a detailed comparison report between 2020 and 2021 sales to offer insights into the company's sales trends and performance over time.
+Welcome to the AtliQ Hardware Sales & Finance Analytics repository! This project focuses on analyzing sales data and Finance data for AtliQ Hardware Company using Excel. We delve into Customer Net Sales, Finance Performance and Market Performance vs Target for the years 2019, 2020, and 2021. Additionally, we provide a detailed comparison report between 2020 and 2021 sales to offer insights into the company's sales trends, P & L by Fiscal years and for markets, gross margins, GM% by quarters and performance over time.
 
 ### Key Features
 
